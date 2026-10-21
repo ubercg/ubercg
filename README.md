@@ -61,3 +61,5 @@ Participé como conferencista en un encuentro sobre acceso abierto del Instituto
 ## Trayectoria y contacto profesional
 
 Conoce más sobre mi experiencia, proyectos y formación en [LinkedIn](https://www.linkedin.com/in/ubercg/).
+
+¿Necesitás desarrollar una aplicación web o modernizar un sistema? [Contactame por LinkedIn](https://www.linkedin.com/in/ubercg/) para conversar sobre tu proyecto.
